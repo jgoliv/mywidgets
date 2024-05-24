@@ -1,0 +1,40 @@
+/* classes da valuebox personalizada -----------------------------------------------------------------------------------------------*/
+.icon-wrapper {
+  width: 50px;
+  height: 50px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #C0B9DD;
+  border-radius: 10px;
+}
+
+.text-style {
+ font-family: sans-serif;
+ color: #605F5E;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 13px;
+}
+
+.value-style {
+  font-family: sans-serif;
+  color: #2F4858;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.value-style-footer {
+  font-family: sans-serif;
+  color: green;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 16px;
+}
+
+.card-footer-valuebox {
+  background-color: white;
+  margin: 0.25px;
+}
