@@ -2,7 +2,7 @@
 #'
 #' Generate a \code{bslib::card()}-based valuebox
 #'
-#' @param icon a bootstrap string name
+#' @param icon a bootstrap icon string name
 #' @param icon_size any valid css length unit
 #' @param icon_bg_color background color of the icon container
 #' @param text header text

@@ -14,5 +14,7 @@ Depends:
   roxygen2,
   htmltools,
   bslib,
-  bsicons
+  bsicons,
+  glue,
+  purrr
 RoxygenNote: 7.3.1

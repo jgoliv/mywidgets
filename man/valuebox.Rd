@@ -18,7 +18,7 @@ valuebox(
 )
 }
 \arguments{
-\item{icon}{a bootstrap string name}
+\item{icon}{a bootstrap icon string name}
 
 \item{icon_size}{any valid css length unit}
 
